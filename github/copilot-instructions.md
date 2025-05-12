@@ -6,7 +6,6 @@ Programs I use:
 - Notepad++
 - Directory Opus
 - Microsoft Edge
-- File Explorer
 - ComfyUI
 - Blender
 - Adobe Photoshop 2025
