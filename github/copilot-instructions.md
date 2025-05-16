@@ -7,8 +7,9 @@ Programs I use:
 - Directory Opus
 - Microsoft Edge
 - ComfyUI
-- Blender
+- Blender 4.4
 - Adobe Photoshop 2025
 - Adobe Substance 3D Designer
 - Adobe Substance 3D Painter
-- 3ds Max
+- 3ds Max 2018
+- Unreal Engine 5.3.2
